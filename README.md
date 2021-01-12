@@ -3,7 +3,7 @@
 ## Repo for code related to T2-weighted MRI Intensity Standardization Project. For Fuller Lab at MD Anderson Cancer Center. <br>
 
 ### This repo contains the following files: <br>
-#### Jupyter notebook of code implementation (T2_Intensity_Standardization.ipynb)<br>
+#### Jupyter notebook of code implementation (T2_Intensity_Standardization.ipynb). <br>
 #### Figure images. <br>
 
 ### Utilized the following python libraries in project: <br>
