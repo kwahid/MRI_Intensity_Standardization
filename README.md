@@ -16,3 +16,5 @@
 #### Radiomics (pyradiomics) version 3.0.0. <br>
 #### Seaborn version 0.11.0. <br>
 #### SimpleITK version 1.2.4. <br>
+
+### Note: The Jupyter Notebook is quite large, which may present difficulties when trying to view it through the online Github browser preview. To successfully view it in the online Github browser you may need to download the code and then navigate back to the corresponding page.  
