@@ -4,7 +4,7 @@
 
 ### This repo contains the following files: <br>
 #### Jupyter notebook of code implementation (T2_Intensity_Standardization.ipynb). <br>
-#### Figure images. <br>
+#### Figure images (SDNMIc_calculation2.png, workflow.png). <br>
 
 ### Utilized the following Python (version 3.7.6) libraries in project: <br>
 #### DicomRTTool version 0.3.5. <br>
