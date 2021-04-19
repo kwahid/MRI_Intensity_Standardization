@@ -6,7 +6,7 @@
 #### Jupyter notebook of code implementation (T2_Intensity_Standardization.ipynb). <br>
 #### Figure images. <br>
 
-### Utilized the following python libraries in project: <br>
+### Utilized the following Python (version 3.7.6) libraries in project: <br>
 #### DicomRTTool version 0.3.5. <br>
 #### Intensity-normalization version 1.4.5.<br>
 #### Matplotlib version 3.3.2.<br>
