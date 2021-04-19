@@ -17,6 +17,6 @@
 #### Seaborn version 0.11.0. <br>
 #### SimpleITK version 1.2.4. <br>
 #### Pydicom version 1.4.0. <br>
-#### Scipy version 1.5.1. <br>
+#### Scipy version 1.6.1. <br>
 
 ### Note: The Jupyter Notebook is quite large, which may present difficulties when trying to view it through the online Github browser preview. To successfully view it in the online Github browser you may need to download the notebook and then navigate back to the corresponding page.  
