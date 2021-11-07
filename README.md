@@ -1,6 +1,6 @@
 # MRI_Intensity_Standardization
 
-## Repo for code related to T2-weighted MRI Intensity Standardization Project. For Fuller Lab at MD Anderson Cancer Center. Pre-print available at: https://www.medrxiv.org/content/10.1101/2021.02.24.21252322v2.full. Corresponding image sets used for this project will avaliable on Figshare (https://figshare.com/s/116494bd42084eb691bc, doi: 10.6084/m9.figshare.13525481). <br>
+## Repo for code related to T2-weighted MRI Intensity Standardization Project. For Fuller Lab at MD Anderson Cancer Center. Pre-print available at: https://www.medrxiv.org/content/10.1101/2021.02.24.21252322v2.full. Corresponding image sets used for this project are avaliable on Figshare (https://figshare.com/s/116494bd42084eb691bc, doi: 10.6084/m9.figshare.13525481). <br>
 
 ### This repo contains the following files: <br>
 #### Jupyter notebook of code implementation (T2_Intensity_Standardization.ipynb). <br>
