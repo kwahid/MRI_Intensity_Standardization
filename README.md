@@ -1,13 +1,13 @@
 # MRI_Intensity_Standardization
 
-## Repo for code related to T2-weighted MRI Intensity Standardization Project. For Fuller Lab at MD Anderson Cancer Center. Pre-print available at: https://www.medrxiv.org/content/10.1101/2021.02.24.21252322v2.full. Corresponding image sets used for this project will be distributed on FigShare once the manuscript is accepted in a scientific journal. <br>
+## Repo for code related to T2-weighted MRI Intensity Standardization Project. For Fuller Lab at MD Anderson Cancer Center. Pre-print available at: https://www.medrxiv.org/content/10.1101/2021.02.24.21252322v2.full. Corresponding image sets used for this project will avaliable on Figshare (https://figshare.com/s/116494bd42084eb691bc, doi: 10.6084/m9.figshare.13525481). <br>
 
 ### This repo contains the following files: <br>
 #### Jupyter notebook of code implementation (T2_Intensity_Standardization.ipynb). <br>
 #### Figure images (SDNMIc_calculation2.png, workflow.png). <br>
 
 ### Utilized the following Python (version 3.7.6) libraries in project: <br>
-#### DicomRTTool version 0.3.5. <br>
+#### DicomRTTool version 0.3.21. <br>
 #### Intensity-normalization version 1.4.5.<br>
 #### Matplotlib version 3.3.2.<br>
 #### Nibabel version 3.1.0.<br>
